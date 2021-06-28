@@ -1,0 +1,67 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "itemId": "1",
+      "itemType": "grid",
+      "numberOfColumns": "2",
+      "itemPosition": "1",
+      "title": "Grid 2 by 2 Items",
+      "children": [
+        {
+          "childId": "1",
+          "childPosition": "1",
+          "imageUrl": "https://images-static.nykaa.com/uploads/1504b824-3fa1-4a6d-a7fc-a1efb47408f4.jpg",
+          "childTitle": "child 1"
+        },
+        {
+          "childId": "2",
+          "childPosition": "2",
+          "imageUrl": "https://images-static.nykaa.com/uploads/1504b824-3fa1-4a6d-a7fc-a1efb47408f4.jpg",
+          "childTitle": "child 2"
+        }
+      ]
+    },
+    {
+      "itemId": "2",
+      "itemType": "grid",
+      "numberOfColumns": "3",
+      "itemPosition": "2",
+      "title": "Grid 3 by 3 Items",
+      "children": [
+        {
+          "childId": "1",
+          "childPosition": "1",
+          "imageUrl": "https://images-static.nykaa.com/uploads/1504b824-3fa1-4a6d-a7fc-a1efb47408f4.jpg",
+          "childTitle": "child 1"
+        },
+        {
+          "childId": "2",
+          "childPosition": "2",
+          "imageUrl": "https://images-static.nykaa.com/uploads/1504b824-3fa1-4a6d-a7fc-a1efb47408f4.jpg",
+          "childTitle": "child 2"
+        }
+      ]
+    },
+    {
+      "itemId": "3",
+      "itemType": "carousel",
+      "itemPosition": "3",
+      "title": "Carousel items - View Pager",
+      "children": [
+        {
+          "childId": "1",
+          "childPosition": "1",
+          "imageUrl": "https://images-static.nykaa.com/uploads/1504b824-3fa1-4a6d-a7fc-a1efb47408f4.jpg",
+          "childTitle": "child 1"
+        },
+        {
+          "childId": "2",
+          "childPosition": "2",
+          "imageUrl": "https://images-static.nykaa.com/uploads/1504b824-3fa1-4a6d-a7fc-a1efb47408f4.jpg",
+          "childTitle": "child 2"
+        }
+      ]
+    }
+  ]
+}
